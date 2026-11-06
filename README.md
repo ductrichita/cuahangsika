@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<421 Luy Ban Bich>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -349,10 +349,4 @@
 
 </body>
 </html>
-Cách sử dụng:
-Anh copy toàn bộ đoạn mã trên.
 
-Dán đè vào file index.html trong mã nguồn website của anh (hoặc cập nhật trực tiếp lên kho chứa GitHub ductrichita/cuahangsika).   
-logo.jpg
-
-Chờ 1-2 phút để GitHub cập nhật là trang web của anh sẽ hiển thị với giao diện đỏ - vàng - trắng chuẩn đẹp, đầy đủ hình ảnh thực tế và các sản phẩm mới nhất!
