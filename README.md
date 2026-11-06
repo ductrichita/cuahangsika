@@ -226,15 +226,15 @@
                     </div>
                 </div>
 
-                <!-- Sản phẩm 2: Sika RainTite -->
+                <!-- Sản phẩm 2: Sika Coat Lus -->
                 <div class="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition flex flex-col border border-slate-200">
                     <div class="h-48 bg-slate-900 relative overflow-hidden flex items-center justify-center">
-                        <img src="https://placehold.co/600x400/da1a32/ffffff?text=Sika+RainTite" alt="Sika RainTite" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=Sika+RainTite'">
+                        <img src="https://placehold.co/600x400/da1a32/ffffff?text=Sika+RainTite" alt="Sika Coat Lus" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=Sika+RainTite'">
                         <span class="absolute top-3 left-3 bg-sikaRed text-white text-xs font-bold px-3 py-1 rounded-full shadow">Chống Thấm Lộ Thiên</span>
                     </div>
                     <div class="p-6 flex-1 flex flex-col justify-between space-y-4">
                         <div>
-                            <h4 class="text-xl font-bold text-slate-900 mb-2">Sika RainTite</h4>
+                            <h4 class="text-xl font-bold text-slate-900 mb-2">Sika Coat Lus</h4>
                             <p class="text-slate-600 text-sm leading-relaxed">
                                 Chất chống thấm đàn hồi gốc Acrylic dạng lộ thiên, dùng cho mái nhà, sân thượng, ban công, tường ngoại thất chống tia UV hiệu quả.
                             </p>
@@ -248,7 +248,7 @@
                     </div>
                 </div>
 
-                <!-- Sản phẩm 3: Sikafill Power -->
+                <!-- Sản phẩm 3: Sika membrane -->
                 <div class="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition flex flex-col border border-slate-200">
                     <div class="h-48 bg-slate-900 relative overflow-hidden flex items-center justify-center">
                         <img src="https://placehold.co/600x400/da1a32/ffffff?text=Sikafill+Power" alt="Sikafill Power" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=Sikafill+Power'">
@@ -462,8 +462,8 @@
                 <h4 class="font-bold text-base text-white border-b border-slate-800 pb-2">Danh Mục Sản Phẩm</h4>
                 <ul class="space-y-2 text-sm text-slate-400">
                     <li><a href="#products" class="hover:text-sikaRed transition">• Sika Latex / Sika Latex TH</a></li>
-                    <li><a href="#products" class="hover:text-sikaRed transition">• Sika RainTite (Chống thấm lộ thiên)</a></li>
-                    <li><a href="#products" class="hover:text-sikaRed transition">• Sikafill Power (Màng đàn hồi)</a></li>
+                    <li><a href="#products" class="hover:text-sikaRed transition">• Sika Coat Lus (Chống thấm lộ thiên)</a></li>
+                    <li><a href="#products" class="hover:text-sikaRed transition">• Sika membrane (Màng đàn hồi)</a></li>
                     <li><a href="#products" class="hover:text-sikaRed transition">• Sika Topseal 107 (2 thành phần)</a></li>
                     <li><a href="#products" class="hover:text-sikaRed transition">• SikaGrout 214-11 (Vữa không co ngót)</a></li>
                 </ul>
