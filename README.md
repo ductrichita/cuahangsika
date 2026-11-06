@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cửa Hàng Phụ Gia Xây Dựng - 421 Lũy Bán Bích Phường Phú Thạnh TP.HCM</title>
+    <title>Phụ Gia Xây Dựng - 421 Lũy Bán Bích Phường Phú Thạnh TP.HCM</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
@@ -90,7 +90,25 @@
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             
-            <!-- Product 1 -->
+            <!-- Product 1: SikaCoat Plus -->
+            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
+                    <img src="https://raw.githubusercontent.com/ductrichita/cuahangsika/main/sikacoat%20plus.jpg" alt="SikaCoat Plus" class="max-h-full max-w-full object-contain">
+                </div>
+                <div class="p-5 flex-1 flex flex-col justify-between">
+                    <div>
+                        <span class="text-xs font-bold text-sikaRed uppercase">Chống thấm đàn hồi</span>
+                        <h4 class="text-lg font-bold text-gray-900 mt-1">SikaCoat Plus</h4>
+                        <p class="text-sm text-gray-600 mt-2">Chất chống thấm đàn hồi cao cấp gốc Acrylic, che vết nứt, chống tia UV cực tốt.</p>
+                    </div>
+                    <div class="mt-4 pt-4 border-t border-gray-100 flex justify-between items-center">
+                        <span class="text-sikaRed font-bold">Chính hãng</span>
+                        <a href="tel:0903883507" class="bg-sikaYellow text-gray-900 px-3 py-1.5 rounded font-bold text-sm hover:bg-yellow-400 transition">Liên hệ báo giá</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product 2: Sikadur 31 CF -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/31CF.jpg" alt="Sikadur 31 CF Normal" class="max-h-full max-w-full object-contain">
@@ -108,7 +126,7 @@
                 </div>
             </div>
 
-            <!-- Product 2 -->
+            <!-- Product 3: Sikadur 732 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/732.jpg" alt="Sikadur 732" class="max-h-full max-w-full object-contain">
@@ -126,7 +144,7 @@
                 </div>
             </div>
 
-            <!-- Product 3 -->
+            <!-- Product 4: Sikadur 752 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/752.jpg" alt="Sikadur 752" class="max-h-full max-w-full object-contain">
@@ -144,7 +162,7 @@
                 </div>
             </div>
 
-            <!-- Product 4 -->
+            <!-- Product 5: Ramset G5 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/RAMSET.jpg" alt="Ramset ChemSet G5" class="max-h-full max-w-full object-contain">
@@ -162,7 +180,7 @@
                 </div>
             </div>
 
-            <!-- Product 5 -->
+            <!-- Product 6: Lưới 20x50m -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/luoi%2020x50m.jpg" alt="Lưới chống thấm" class="max-h-full max-w-full object-contain">
@@ -180,7 +198,7 @@
                 </div>
             </div>
 
-            <!-- Product 6 -->
+            <!-- Product 7: Lưới thủy tinh -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/luoi%20thuy%20tinh.jpg" alt="Lưới thủy tinh" class="max-h-full max-w-full object-contain">
@@ -198,7 +216,7 @@
                 </div>
             </div>
 
-            <!-- Product 7 -->
+            <!-- Product 8: SikaTop Seal 107 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/siaktop%20107.jpg" alt="SikaTop Seal 107" class="max-h-full max-w-full object-contain">
