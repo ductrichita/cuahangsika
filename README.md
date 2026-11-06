@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cửa Hàng Sika 421 Lũy Bán Bích - Phụ Gia & Chống Thấm Chính Hãng</title>
+    <title>Cửa Hàng Sika Trí Hóa Chất - 421 Lũy Bán Bích, Q. Tân Phú</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
@@ -40,10 +40,13 @@
     <header class="bg-sikaYellow shadow-md sticky top-0 z-50">
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center gap-3">
-                <div class="bg-sikaRed text-white font-black text-xl px-3 py-1 rounded shadow">SIKA</div>
+                <!-- Logo liên kết trực tiếp từ Google Drive của anh -->
+                <a href="#" class="flex items-center">
+                    <img src="https://drive.google.com/uc?export=view&id=1h06rrxxa-6g_kXLvqM6ZwVrYT4qhVNAL" alt="Logo Cửa Hàng Sika" class="h-12 w-auto rounded shadow object-contain bg-white p-1">
+                </a>
                 <div>
-                    <h1 class="text-lg md:text-xl font-bold text-sikaDark uppercase leading-tight">Cửa Hàng Sika Trí Hóa Chất</h1>
-                    <p class="text-xs text-gray-900 font-semibold">Tư vấn & Cung cấp vật liệu chống thấm chuyên sâu</p>
+                    <h1 class="text-base md:text-lg font-bold text-sikaDark uppercase leading-tight">Cửa Hàng Sika Trí Hóa Chất</h1>
+                    <p class="text-xs text-gray-900 font-semibold">421 Lũy Bán Bích, Q. Tân Phú</p>
                 </div>
             </div>
             <div class="hidden md:flex items-center gap-4">
@@ -65,7 +68,7 @@
                 Giải Pháp Chống Thấm & Phụ Gia Xây Dựng Hàng Đầu
             </h2>
             <p class="text-base md:text-lg mb-8 text-gray-900 font-medium">
-                Cung cấp đầy đủ các dòng sản phẩm Sika chính hãng, keo cấy thép Ramset, lưới thủy tinh và thiết bị thi công chuyên nghiệp cho mọi công trình tại TP.HCM.
+                Cung cấp đầy đủ các dòng sản phẩm Sika chính hãng, keo cấy thép Ramset, lưới thủy tinh và thiết bị thi công chuyên nghiệp tại 421 Lũy Bán Bích, Q. Tân Phú.
             </p>
             <div class="flex flex-wrap justify-center gap-4">
                 <a href="tel:0903883507" class="bg-sikaRed text-white px-6 py-3 rounded-lg font-bold text-lg shadow-lg hover:bg-red-700 transition flex items-center gap-2">
@@ -90,8 +93,8 @@
             
             <!-- Product 1 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
-                    <img src="latex-25.jpg" alt="Sika Latex / Latex TH" class="max-h-full max-w-full object-contain">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
+                    <img src="latex-25.jpg" alt="Sika Latex" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
                     <div>
@@ -108,12 +111,12 @@
 
             <!-- Product 2 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="siaktop 107.jpg" alt="SikaTop Seal 107" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Vữa chống thấm 2 thành phần</span>
+                        <span class="text-xs font-bold text-sikaRed uppercase">Vữa chống thấm</span>
                         <h4 class="text-lg font-bold text-gray-900 mt-1">SikaTop Seal 107</h4>
                         <p class="text-sm text-gray-600 mt-2">Dùng chống thấm sàn mái, ban công, toilet, bể nước, tầng hầm hiệu quả cao.</p>
                     </div>
@@ -126,7 +129,7 @@
 
             <!-- Product 3 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="sikacoat plus.jpg" alt="SikaCoat Plus" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -144,7 +147,7 @@
 
             <!-- Product 4 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="keo dan gach GP.jpg" alt="Sika Tilebond GP" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -162,7 +165,7 @@
 
             <!-- Product 5 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="214-11.jpg" alt="Sika Grout 214-11" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -180,7 +183,7 @@
 
             <!-- Product 6 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="31CF.jpg" alt="Sikadur 31 CF Normal" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -198,7 +201,7 @@
 
             <!-- Product 7 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="732.jpg" alt="Sikadur 732" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -216,7 +219,7 @@
 
             <!-- Product 8 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="752.jpg" alt="Sikadur 752" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -234,7 +237,7 @@
 
             <!-- Product 9 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="RAMSET.jpg" alt="Ramset ChemSet G5" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -252,7 +255,7 @@
 
             <!-- Product 10 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="luoi thuy tinh.jpg" alt="Lưới thủy tinh chống thấm" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
@@ -270,8 +273,8 @@
 
             <!-- Product 11 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-2">
-                    <img src="kim bom.jpg" alt="Kim bơm keo vết nứt" class="max-h-full max-w-full object-contain">
+                <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
+                    <img src="kim bom.jpg" alt="Kim bơm keo" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
                     <div>
@@ -295,7 +298,7 @@
             <h3 class="text-3xl font-bold text-sikaDark mb-4">Về Cửa Hàng Sika Trí Hóa Chất</h3>
             <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
             <p class="text-gray-700 leading-relaxed text-lg mb-6">
-                Chuyên cung cấp sỉ và lẻ các dòng sản phẩm phụ gia xây dựng, vật liệu chống thấm Sika chính hãng, keo cấy thép Ramset và vật tư thi công chuyên nghiệp. Chúng tôi tư vấn kỹ thuật tận tâm, giao hàng nhanh chóng cho các công trình lớn nhỏ tại TP.HCM và các tỉnh lân cận.
+                Chuyên cung cấp sỉ và lẻ các dòng sản phẩm phụ gia xây dựng, vật liệu chống thấm Sika chính hãng, keo cấy thép Ramset và vật tư thi công chuyên nghiệp tại 421 Lũy Bán Bích, Q. Tân Phú. Chúng tôi tư vấn kỹ thuật tận tâm, giao hàng nhanh chóng cho các công trình lớn nhỏ tại TP.HCM và các tỉnh lân cận.
             </p>
             <div class="flex flex-wrap justify-center gap-6 text-gray-800 font-semibold">
                 <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Sản phẩm chính hãng 100%</div>
@@ -349,28 +352,3 @@
 
 </body>
 </html>
-<!-- ductrichita/hinh -->
-<div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-    <!-- ductrichita/hinh -->
-    <div class="h-56 bg-gray-50 flex items-center justify-center p-4 relative overflow-hidden group">
-        <img src="ten-file-anh.jpg" alt="Mô tả hình ảnh sản phẩm" class="max-h-full max-w-full object-contain transition duration-300 group-hover:scale-105">
-    </div>
-    
-    <!-- Phần thông tin bên dưới -->
-    <div class="p-5 flex-1 flex flex-col justify-between">
-        <h4 class="text-lg font-bold text-gray-900">Tên Sản Phẩm</h4>
-        <p class="text-sm text-gray-600 mt-2">Mô tả ngắn gọn về tính năng hoặc công dụng sản phẩm.</p>
-    </div>
-</div>
-
-<div class="flex items-center gap-3">
-    <a href="#" class="flex items-center">
-        <img src="logo3507.jpg" alt="Logo Cửa Hàng" class="h-12 w-auto rounded shadow object-contain bg-white p-1">
-    </a>
-    <div>
-        <h1 class="text-base font-bold text-gray-900 uppercase">Cửa Hàng Sika Trí Hóa Chất</h1>
-        <p class="text-xs text-gray-700 font-semibold">421 Lũy Bán Bích, Q. Tân Phú</p>
-    </div>
-</div>
-
-
