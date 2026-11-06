@@ -1,4 +1,4 @@
-<421 Luy Ban Bich>
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
