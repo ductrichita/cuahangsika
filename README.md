@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cửa Hàng Sika Trí Hóa Chất - 421 Lũy Bán Bích, Q. Tân Phú</title>
+    <title>Cửa Hàng Sika Phụ Gia Xây Dựng - 421 Lũy Bán Bích,Phường Phú Thạnh TP.HCM</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
@@ -20,14 +20,14 @@
         }
     </script>
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans">
+<body class="bg-gray-40 text-gray-800 font-sans">
 
     <!-- Top Bar -->
     <div class="bg-sikaRed text-white py-2 px-4 text-sm font-medium">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
             <div class="flex items-center gap-2">
                 <i class="fa-solid fa-location-dot"></i>
-                <span>421 Lũy Bán Bích, Phường Phú Thạnh, Q. Tân Phú, TP.HCM</span>
+                <span>421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</span>
             </div>
             <div class="flex items-center gap-4">
                 <a href="tel:0903883507" class="hover:underline"><i class="fa-solid fa-phone"></i> 0903 883 507</a>
@@ -45,9 +45,7 @@
                 </a>
                 <div>
                     <h1 class="text-base md:text-lg font-bold text-sikaDark uppercase leading-tight">Cửa Hàng Sika Trí Hóa Chất</h1>
-                    <p class="text-xs text-gray-900 font-semibold">421 Lũy Bán Bích, Q. Tân Phú</p>
-                </div>
-            </div>
+                    <p class="text-xs text-gray-900 font-semibold">421 Lũy Bán Bích, Phường Phú Thạnh div>           </div>
             <div class="hidden md:flex items-center gap-4">
                 <a href="#products" class="font-bold text-gray-900 hover:text-sikaRed transition">Sản phẩm</a>
                 <a href="#about" class="font-bold text-gray-900 hover:text-sikaRed transition">Giới thiệu</a>
