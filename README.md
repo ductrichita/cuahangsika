@@ -26,7 +26,7 @@
         }
     </script>
     <style>
-        /* Hiệu ứng pulse cho nút Zalo / liên hệ nổi */
+        /* Hiệu ứng pulse cho nút gọi nhanh Zalo */
         @keyframes pulse-zalo {
             0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(218, 26, 50, 0.5); }
             70% { transform: scale(1.08); box-shadow: 0 0 0 15px rgba(218, 26, 50, 0); }
@@ -58,7 +58,7 @@
     <header class="sticky top-0 z-50 bg-white shadow-md">
         <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
             <!-- Logo Thương Hiệu -->
-            <a href="#" class="flex items-center gap-3">
+            <a href="#home" class="flex items-center gap-3">
                 <div class="bg-sikaRed text-white font-black text-2xl sm:text-3xl px-3 py-1 rounded-lg tracking-wider shadow">
                     SIKA
                 </div>
@@ -119,7 +119,7 @@
                     Giải Pháp Chống Thấm & Vật Liệu Xây Dựng <span class="text-sikaRed underline decoration-white decoration-4">Sika Đỉnh Cao</span>
                 </h1>
                 <p class="text-slate-300 text-base sm:text-lg leading-relaxed">
-                    Chuyên cung cấp đầy đủ các dòng sản phẩm phụ gia chống thấm, keo trám, vữa rót gốc xi măng chất lượng cao cho mọi công trình dân dụng và công nghiệp tại TP.HCM.
+                    Chuyên cung cấp đầy đủ các dòng sản phẩm phụ gia chống thấm, keo dán gạch, vữa rót gốc xi măng chất lượng cao cho mọi công trình dân dụng và công nghiệp tại TP.HCM.
                 </p>
                 <div class="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 pt-2">
                     <a href="#products" class="bg-sikaRed hover:bg-sikaDarkRed text-white px-8 py-4 rounded-xl font-bold text-center shadow-lg hover:shadow-xl transition transform hover:-translate-y-0.5">
@@ -226,44 +226,44 @@
                     </div>
                 </div>
 
-                <!-- Sản phẩm 2: Sika Coat Lus -->
+                <!-- Sản phẩm 2: SikaCoat Plus -->
                 <div class="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition flex flex-col border border-slate-200">
                     <div class="h-48 bg-slate-900 relative overflow-hidden flex items-center justify-center">
-                        <img src="https://placehold.co/600x400/da1a32/ffffff?text=Sika+RainTite" alt="Sika Coat Lus" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=Sika+RainTite'">
+                        <img src="https://placehold.co/600x400/da1a32/ffffff?text=SikaCoat+Plus" alt="SikaCoat Plus" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=SikaCoat+Plus'">
                         <span class="absolute top-3 left-3 bg-sikaRed text-white text-xs font-bold px-3 py-1 rounded-full shadow">Chống Thấm Lộ Thiên</span>
                     </div>
                     <div class="p-6 flex-1 flex flex-col justify-between space-y-4">
                         <div>
-                            <h4 class="text-xl font-bold text-slate-900 mb-2">Sika Coat Lus</h4>
+                            <h4 class="text-xl font-bold text-slate-900 mb-2">SikaCoat Plus</h4>
                             <p class="text-slate-600 text-sm leading-relaxed">
-                                Chất chống thấm đàn hồi gốc Acrylic dạng lộ thiên, dùng cho mái nhà, sân thượng, ban công, tường ngoại thất chống tia UV hiệu quả.
+                                Chất chống thấm đàn hồi cao cấp gốc Acrylic dạng lộ thiên, chống thấm mái nhà, sân thượng, ban công, tường ngoại thất chống tia UV vượt trội.
                             </p>
                         </div>
                         <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
                             <span class="text-xs font-semibold text-slate-500"><i class="fa-solid fa-box text-sikaRed mr-1"></i> Quy cách: Thùng 4kg & 20kg</span>
-                            <a href="https://zalo.me/0903883507?text=Xin%20tư%20vấn%20giá%20Sika%20RainTite" target="_blank" class="bg-sikaRed hover:bg-sikaDarkRed text-white text-xs font-bold px-3 py-2 rounded-lg transition">
+                            <a href="https://zalo.me/0903883507?text=Xin%20tư%20vấn%20giá%20SikaCoat%20Plus" target="_blank" class="bg-sikaRed hover:bg-sikaDarkRed text-white text-xs font-bold px-3 py-2 rounded-lg transition">
                                 Báo Giá
                             </a>
                         </div>
                     </div>
                 </div>
 
-                <!-- Sản phẩm 3: Sika membrane -->
+                <!-- Sản phẩm 3: Sika Tilebond GP -->
                 <div class="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition flex flex-col border border-slate-200">
                     <div class="h-48 bg-slate-900 relative overflow-hidden flex items-center justify-center">
-                        <img src="https://placehold.co/600x400/da1a32/ffffff?text=Sikafill+Power" alt="Sikafill Power" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=Sikafill+Power'">
-                        <span class="absolute top-3 left-3 bg-sikaRed text-white text-xs font-bold px-3 py-1 rounded-full shadow">Màng Đàn Hồi Cao</span>
+                        <img src="https://placehold.co/600x400/da1a32/ffffff?text=Sika+Tilebond+GP" alt="Sika Tilebond GP" class="w-full h-full object-cover opacity-90 hover:scale-105 transition duration-500" onerror="this.src='https://placehold.co/600x400/1e1e1e/ffffff?text=Sika+Tilebond+GP'">
+                        <span class="absolute top-3 left-3 bg-sikaRed text-white text-xs font-bold px-3 py-1 rounded-full shadow">Keo Dán Gạch Gốc Xi Măng</span>
                     </div>
                     <div class="p-6 flex-1 flex flex-col justify-between space-y-4">
                         <div>
-                            <h4 class="text-xl font-bold text-slate-900 mb-2">Sikafill Power</h4>
+                            <h4 class="text-xl font-bold text-slate-900 mb-2">Sika Tilebond GP</h4>
                             <p class="text-slate-600 text-sm leading-relaxed">
-                                Màng chống thấm Acrylic dạng lỏng, đàn hồi cao, chuyên dụng che lấp vết nứt tuyệt vời cho tường đứng và mái nhà không đi lại.
+                                Keo dán gạch gốc xi măng trộn sẵn, độ bám dính cao, chuyên dùng ốp lát gạch ceramic, gạch men cho tường và sàn nhà.
                             </p>
                         </div>
                         <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
-                            <span class="text-xs font-semibold text-slate-500"><i class="fa-solid fa-box text-sikaRed mr-1"></i> Quy cách: Thùng 18kg</span>
-                            <a href="https://zalo.me/0903883507?text=Xin%20tư%20vấn%20giá%20Sikafill%20Power" target="_blank" class="bg-sikaRed hover:bg-sikaDarkRed text-white text-xs font-bold px-3 py-2 rounded-lg transition">
+                            <span class="text-xs font-semibold text-slate-500"><i class="fa-solid fa-box text-sikaRed mr-1"></i> Quy cách: Bao 25kg</span>
+                            <a href="https://zalo.me/0903883507?text=Xin%20tư%20vấn%20giá%20Sika%20Tilebond%20GP" target="_blank" class="bg-sikaRed hover:bg-sikaDarkRed text-white text-xs font-bold px-3 py-2 rounded-lg transition">
                                 Báo Giá
                             </a>
                         </div>
@@ -462,8 +462,8 @@
                 <h4 class="font-bold text-base text-white border-b border-slate-800 pb-2">Danh Mục Sản Phẩm</h4>
                 <ul class="space-y-2 text-sm text-slate-400">
                     <li><a href="#products" class="hover:text-sikaRed transition">• Sika Latex / Sika Latex TH</a></li>
-                    <li><a href="#products" class="hover:text-sikaRed transition">• Sika Coat Lus (Chống thấm lộ thiên)</a></li>
-                    <li><a href="#products" class="hover:text-sikaRed transition">• Sika membrane (Màng đàn hồi)</a></li>
+                    <li><a href="#products" class="hover:text-sikaRed transition">• SikaCoat Plus (Chống thấm lộ thiên)</a></li>
+                    <li><a href="#products" class="hover:text-sikaRed transition">• Sika Tilebond GP (Keo dán gạch)</a></li>
                     <li><a href="#products" class="hover:text-sikaRed transition">• Sika Topseal 107 (2 thành phần)</a></li>
                     <li><a href="#products" class="hover:text-sikaRed transition">• SikaGrout 214-11 (Vữa không co ngót)</a></li>
                 </ul>
@@ -494,15 +494,14 @@
             </div>
             <span class="text-[10px] font-bold mt-0.5">Chat Zalo</span>
         </a>
-<a href="tel:0975640547" class="flex flex-col items-center text-slate-700 hover:text-sikaRed">
+        <a href="tel:0975640547" class="flex flex-col items-center text-slate-700 hover:text-sikaRed">
             <div class="w-10 h-10 bg-slate-800 text-white rounded-full flex items-center justify-center text-lg shadow">
                 <i class="fa-solid fa-phone-volume"></i>
             </div>
             <span class="text-[10px] font-bold mt-0.5">Gọi 0975640547</span>
         </a>
     </div>
-
-    <!-- JavaScript Xử Lý Menu Mobile -->
+<!-- JavaScript Xử Lý Menu Mobile -->
     <script>
         const menuBtn = document.getElementById('menu-btn');
         const mobileMenu = document.getElementById('mobile-menu');
