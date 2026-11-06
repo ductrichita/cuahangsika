@@ -349,10 +349,9 @@
 
 </body>
 </html>
-
-<!-- Khung chứa ảnh sản phẩm -->
+<!-- ductrichita/hinh -->
 <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-    <!-- Phần khung hiển thị ảnh -->
+    <!-- ductrichita/hinh -->
     <div class="h-56 bg-gray-50 flex items-center justify-center p-4 relative overflow-hidden group">
         <img src="ten-file-anh.jpg" alt="Mô tả hình ảnh sản phẩm" class="max-h-full max-w-full object-contain transition duration-300 group-hover:scale-105">
     </div>
@@ -363,12 +362,15 @@
         <p class="text-sm text-gray-600 mt-2">Mô tả ngắn gọn về tính năng hoặc công dụng sản phẩm.</p>
     </div>
 </div>
+
 <div class="flex items-center gap-3">
     <a href="#" class="flex items-center">
-        <img src="logo.jpg" alt="Logo Cửa Hàng" class="h-12 w-auto rounded shadow object-contain bg-white p-1">
+        <img src="logo3507.jpg" alt="Logo Cửa Hàng" class="h-12 w-auto rounded shadow object-contain bg-white p-1">
     </a>
     <div>
         <h1 class="text-base font-bold text-gray-900 uppercase">Cửa Hàng Sika Trí Hóa Chất</h1>
         <p class="text-xs text-gray-700 font-semibold">421 Lũy Bán Bích, Q. Tân Phú</p>
     </div>
 </div>
+
+
