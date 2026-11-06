@@ -27,7 +27,7 @@
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center gap-2">
             <div class="flex items-center gap-2">
                 <i class="fa-solid fa-location-dot"></i>
-                <span>421 Lũy Bán Bích, Phường Phú Thạnh , TP.HCM</span>
+                <span>421 Lũy Bán Bích, Phường Phú Thạnh,  TP.HCM</span>
             </div>
             <div class="flex items-center gap-4">
                 <a href="tel:0903883507" class="hover:underline"><i class="fa-solid fa-phone"></i> 0903 883 507</a>
@@ -41,10 +41,10 @@
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center gap-3">
                 <a href="#" class="flex items-center">
-                    <img src=https://github.com/ductrichita/cuahangsika/commit/13d6c904a352310c29e3eb6d5a689f95b74642db>
+                    <img src=" https://github.com/ductrichita/cuahangsika/blob/main/logo3507.jpg " alt="Logo Cửa Hàng Sika" class="h-12 w-auto rounded shadow object-contain bg-white p-1">
                 </a>
                 <div>
-                    <h1 class="text-base md:text-lg font-bold text-sikaDark uppercase leading-tight">Cửa Hàng Sika Phụ Gia Xây Dựng </h1>
+                    <h1 class="text-base md:text-lg font-bold text-sikaDark uppercase leading-tight">Cửa Hàng Sika Trí Hóa Chất</h1>
                     <p class="text-xs text-gray-900 font-semibold">421 Lũy Bán Bích, Phường Phú Thạnh </p>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                 Giải Pháp Chống Thấm & Phụ Gia Xây Dựng Hàng Đầu
             </h2>
             <p class="text-base md:text-lg mb-8 text-gray-900 font-medium">
-                Cung cấp đầy đủ các dòng sản phẩm Sika chính hãng, keo cấy thép Ramset, lưới thủy tinh và thiết bị thi công chuyên nghiệp tại 421 Lũy Bán Bích, Q. Tân Phú.
+                Cung cấp đầy đủ các dòng sản phẩm Sika chính hãng, keo cấy thép Ramset, lưới thủy tinh và thiết bị thi công chuyên nghiệp tại 421 Lũy Bán Bích, Phường Phú Thạnh.
             </p>
             <div class="flex flex-wrap justify-center gap-4">
                 <a href="tel:0903883507" class="bg-sikaRed text-white px-6 py-3 rounded-lg font-bold text-lg shadow-lg hover:bg-red-700 transition flex items-center gap-2">
@@ -129,7 +129,7 @@
             <!-- Product 3 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
-                    <img src="https://github.com/ductrichita/cuahangsika/blob/main/sikacoat%20plus.jpg " alt="SikaCoat Plus" class="max-h-full max-w-full object-contain">
+                    <img src=" https://github.com/ductrichita/cuahangsika/blob/main/sikacoat%20plus.jpg " alt="SikaCoat Plus" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
                     <div>
