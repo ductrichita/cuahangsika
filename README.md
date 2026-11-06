@@ -41,7 +41,7 @@
         <div class="container mx-auto px-4 py-3 flex justify-between items-center">
             <div class="flex items-center gap-3">
                 <a href="#" class="flex items-center">
-                    <img src="https://drive.google.com/uc?export=view&id=1h06rrxxa-6g_kXLvqM6ZwVrYT4qhVNAL" alt="Logo Cửa Hàng Sika" class="h-12 w-auto rounded shadow object-contain bg-white p-1">
+                    <img src=https://github.com/ductrichita/cuahangsika/commit/13d6c904a352310c29e3eb6d5a689f95b74642db>
                 </a>
                 <div>
                     <h1 class="text-base md:text-lg font-bold text-sikaDark uppercase leading-tight">Cửa Hàng Sika Phụ Gia Xây Dựng </h1>
