@@ -129,7 +129,7 @@
             <!-- Product 3 -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
-                    <img src="https://drive.google.com/uc?export=view&id=1kfTes4AWzrym_k4tgEfjZ6MkOfCxBOgq" alt="SikaCoat Plus" class="max-h-full max-w-full object-contain">
+                    <img src="https://github.com/ductrichita/cuahangsika/blob/main/sikacoat%20plus.jpg " alt="SikaCoat Plus" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
                     <div>
