@@ -315,7 +315,7 @@
                     <i class="fa-solid fa-store text-sikaYellow text-xl mt-1"></i>
                     <div>
                         <strong class="block text-lg">Cửa Hàng Phụ Gia Xây Dựng</strong>
-                        <span class="text-gray-300">421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM[cite: 2]</span>
+                        <span class="text-gray-300">421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM </span>
                     </div>
                 </div>
                 <div class="flex items-center gap-4">
