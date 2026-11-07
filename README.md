@@ -64,9 +64,9 @@
     <section class="bg-gradient-to-r from-sikaDark to-gray-800 text-white py-16 px-4">
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
             <div>
-                <span class="bg-sikaYellow text-sikaDark font-bold text-xs uppercase px-3 py-1 rounded-full">Chính hãng 100% - Giá tốt nhất</span>
+                <span class="bg-sikaYellow text-sikaDark font-bold text-xs uppercase px-3 py-1 rounded-full">Chính hãng 100% - Tư vấn kỹ thuật tận tâm</span>
                 <h2 class="text-3xl md:text-5xl font-black mt-4 mb-4 leading-tight">Giải Pháp Chống Thấm & Phụ Gia Xây Dựng Toàn Diện</h2>
-                <p class="text-gray-300 mb-6 text-sm md:text-base">Chuyên cung cấp sỉ và lẻ keo dán gạch, chất chống thấm, keo bọt nở, keo silicone và vữa rót gốc Sika chính hãng phục vụ mọi công trình tại TP.HCM.</p>
+                <p class="text-gray-300 mb-6 text-sm md:text-base">Chuyên cung cấp keo dán gạch Sika GP, keo cấy thép 200HP, chất tẩy rỉ và các giải pháp chống thấm hàng đầu phục vụ mọi công trình tại TP.HCM.</p>
                 <div class="flex flex-wrap gap-4">
                     <a href="#san-pham" class="bg-sikaRed text-white font-bold px-6 py-3 rounded-lg shadow hover:bg-sikaDarkRed transition">Xem Sản Phẩm</a>
                     <a href="tel:0903883507" class="bg-white text-sikaDark font-bold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">Tư Vấn Kỹ Thuật</a>
@@ -86,21 +86,21 @@
         <div class="text-center mb-12">
             <h2 class="text-3xl font-black uppercase text-sikaDark">Sản Phẩm Chủ Lực</h2>
             <div class="w-20 h-1 bg-sikaRed mx-auto mt-2"></div>
-            <p class="text-gray-600 mt-2">Danh mục phụ gia xây dựng, keo dán gạch và vật liệu chống thấm cao cấp sẵn có tại cửa hàng.</p>
+            <p class="text-gray-600 mt-2">Danh mục keo dán gạch, vật liệu xử lý kết cấu và chống thấm cao cấp sẵn có tại cửa hàng.</p>
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             
-            <!-- Product 1: Sika Tilebond GP -->
+            <!-- Product 1: Keo GP -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-                    <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=500&q=80" alt="Sika Tilebond GP" class="h-full object-cover rounded">
+                <div class="h-56 bg-gray-100 flex items-center justify-center p-4">
+                    <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20gp.jpg" alt="Keo dán gạch Sika GP" class="h-full object-contain">
                 </div>
                 <div class="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Keo dán gạch</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">Sika Tilebond GP</h3>
-                        <p class="text-gray-600 text-sm mb-4">Keo dán gạch gốc xi măng trộn sẵn, độ bám dính cao, chống trượt tốt cho gạch ốp lát tường và sàn.</p>
+                        <span class="text-xs font-bold text-sikaRed uppercase">Keo dán gạch chính hãng</span>
+                        <h3 class="text-xl font-bold mt-1 mb-2">Keo Dán Gạch Sika GP</h3>
+                        <p class="text-gray-600 text-sm mb-4">Keo dán gạch gốc xi măng trộn sẵn, độ bám dính cực cao, chống trượt tốt cho gạch ốp lát tường và sàn.</p>
                     </div>
                     <div class="flex items-center justify-between pt-4 border-t border-gray-100">
                         <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
@@ -109,16 +109,16 @@
                 </div>
             </div>
 
-            <!-- Product 2: SikaCoat Plus -->
+            <!-- Product 2: Keo 200HP -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-                    <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=500&q=80" alt="SikaCoat Plus" class="h-full object-cover rounded">
+                <div class="h-56 bg-gray-100 flex items-center justify-center p-4">
+                    <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20200hp.jpg" alt="Keo 200HP cấy thép" class="h-full object-contain">
                 </div>
                 <div class="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Chống thấm lộ thiên</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">SikaCoat Plus</h3>
-                        <p class="text-gray-600 text-sm mb-4">Chất chống thấm đàn hồi cao cấp dạng lỏng, gốc acrylic cho mái phẳng, ban công và tường đứng.</p>
+                        <span class="text-xs font-bold text-sikaRed uppercase">Neo thép & cấy bu lông</span>
+                        <h3 class="text-xl font-bold mt-1 mb-2">Keo Cấy Thép 200HP</h3>
+                        <p class="text-gray-600 text-sm mb-4">Hóa chất cấy thép chuyên dụng cường độ cao, chịu lực tốt cho các hạng mục cải tạo và kết cấu bê tông cốt thép.</p>
                     </div>
                     <div class="flex items-center justify-between pt-4 border-t border-gray-100">
                         <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
@@ -127,70 +127,16 @@
                 </div>
             </div>
 
-            <!-- Product 3: SikaTopseal 107 -->
+            <!-- Product 3: Tháo rỉ sắt -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-                    <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=500&q=80" alt="SikaTopseal 107" class="h-full object-cover rounded">
+                <div class="h-56 bg-gray-100 flex items-center justify-center p-4">
+                    <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/thao%20ri.jpg" alt="Chất tháo rỉ sắt" class="h-full object-contain">
                 </div>
                 <div class="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Chống thấm 2 thành phần</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">SikaTopseal 107</h3>
-                        <p class="text-gray-600 text-sm mb-4">Vữa chống thấm gốc xi măng polyme cải tiến cho tầng hầm, bể nước, ban công, phòng tắm.</p>
-                    </div>
-                    <div class="flex items-center justify-between pt-4 border-t border-gray-100">
-                        <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
-                        <a href="tel:0903883507" class="bg-sikaDark text-white text-xs font-bold px-3 py-2 rounded hover:bg-sikaRed transition">Đặt hàng ngay</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Product 4: Sika Latex -->
-            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-                    <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=500&q=80" alt="Sika Latex" class="h-full object-cover rounded">
-                </div>
-                <div class="p-6 flex-1 flex flex-col justify-between">
-                    <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Chất kết dính & phụ gia vữa</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">Sika Latex / Latex TH</h3>
-                        <p class="text-gray-600 text-sm mb-4">Nhũ tương cao su tổng hợp trộn với vữa xi măng tăng độ bám dính, chống thấm và đàn hồi.</p>
-                    </div>
-                    <div class="flex items-center justify-between pt-4 border-t border-gray-100">
-                        <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
-                        <a href="tel:0903883507" class="bg-sikaDark text-white text-xs font-bold px-3 py-2 rounded hover:bg-sikaRed transition">Đặt hàng ngay</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Product 5: SikaGrout 214-11 -->
-            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-                    <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=500&q=80" alt="SikaGrout 214-11" class="h-full object-cover rounded">
-                </div>
-                <div class="p-6 flex-1 flex flex-col justify-between">
-                    <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Vữa rót gốc xi măng</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">SikaGrout 214-11</h3>
-                        <p class="text-gray-600 text-sm mb-4">Vữa rót bù co ngót, không độc hại, chịu lực cao cho móng máy, bệ cột và neo bu lông.</p>
-                    </div>
-                    <div class="flex items-center justify-between pt-4 border-t border-gray-100">
-                        <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
-                        <a href="tel:0903883507" class="bg-sikaDark text-white text-xs font-bold px-3 py-2 rounded hover:bg-sikaRed transition">Đặt hàng ngay</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Product 6: Other Sika & RAMSET -->
-            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-48 bg-gray-100 flex items-center justify-center p-4">
-                    <img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=500&q=80" alt="Sản phẩm khác" class="h-full object-cover rounded">
-                </div>
-                <div class="p-6 flex-1 flex flex-col justify-between">
-                    <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Keo silicone, bọt nở & neo thép</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">Sika 31CF, 732, 752 & RAMSET</h3>
-                        <p class="text-gray-600 text-sm mb-4">Keo cấy thép, keo silicone trám trét, bọt nở polyurethane và các vật liệu phụ trợ thi công chuyên nghiệp.</p>
+                        <span class="text-xs font-bold text-sikaRed uppercase">Xử lý bề mặt kim loại</span>
+                        <h3 class="text-xl font-bold mt-1 mb-2">Chất Tháo / Tẩy Rỉ Sắt</h3>
+                        <p class="text-gray-600 text-sm mb-4">Dung dịch chuyên dụng tẩy sạch rỉ sét trên cốt pha, sắt thép xây dựng, trả lại bề mặt sạch bảo vệ công trình.</p>
                     </div>
                     <div class="flex items-center justify-between pt-4 border-t border-gray-100">
                         <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
@@ -208,9 +154,9 @@
             <div>
                 <span class="text-xs font-bold text-sikaRed uppercase">Về cửa hàng chúng tôi</span>
                 <h2 class="text-3xl font-black mt-2 mb-4">Uy Tín & Tư Vấn Kỹ Thuật Chuyên Sâu Tại Tân Phú</h2>
-                <p class="text-gray-700 mb-4">Được điều hành bởi anh <strong>Nguyễn Đức Trí</strong> - chuyên viên tư vấn kỹ thuật vật liệu xây dựng Sika lâu năm, cửa hàng là địa chỉ tin cậy của các nhà thầu, thợ xây và chủ đầu tư.</p>
+                <p class="text-gray-700 mb-4">Được điều hành bởi anh <strong>Nguyễn Đức Trí</strong> - chuyên viên tư vấn kỹ thuật vật liệu xây dựng lâu năm, cửa hàng là địa chỉ tin cậy của các nhà thầu, thợ xây và chủ đầu tư.</p>
                 <ul class="space-y-2 text-gray-700 font-medium">
-                    <li><i class="fa-solid fa-check text-sikaRed mr-2"></i> Cam kết 100% sản phẩm Sika chính hãng.</li>
+                    <li><i class="fa-solid fa-check text-sikaRed mr-2"></i> Cam kết sản phẩm chính hãng, chất lượng cao.</li>
                     <li><i class="fa-solid fa-check text-sikaRed mr-2"></i> Tư vấn đúng kỹ thuật thi công từng hạng mục.</li>
                     <li><i class="fa-solid fa-check text-sikaRed mr-2"></i> Giá sỉ và lẻ cạnh tranh tại TP.HCM.</li>
                 </ul>
@@ -233,18 +179,17 @@
     <footer id="lien-he" class="bg-sikaDark text-white pt-16 pb-8">
         <div class="container mx-auto px-4 max-w-7xl grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
             <div>
-                <h3 class="text-lg font-bold mb-4 text-sikaYellow">PHỤ GIA XÂY DỰNG SIKA</h3>
-                <p class="text-gray-400 text-sm mb-4">Đơn vị chuyên phân phối phụ gia xây dựng và giải pháp chống thấm hàng đầu tại Phường Phú Thạnh, TP.HCM.</p>
+                <h3 class="text-lg font-bold mb-4 text-sikaYellow">PHỤ GIA XÂY DỰNG</h3>
+                <p class="text-gray-400 text-sm mb-4">Đơn vị chuyên phân phối phụ gia xây dựng và vật liệu chống thấm hàng đầu tại Phường Phú Thạnh, TP.HCM.</p>
                 <p class="text-gray-400 text-sm"><i class="fa-solid fa-location-dot text-sikaRed mr-2"></i> 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</p>
             </div>
             <div>
                 <h3 class="text-lg font-bold mb-4 text-sikaYellow">SẢN PHẨM CHÍNH</h3>
                 <ul class="space-y-2 text-gray-400 text-sm">
-                    <li><a href="#san-pham" class="hover:text-white transition">Keo dán gạch Sika Tilebond GP</a></li>
-                    <li><a href="#san-pham" class="hover:text-white transition">Chất chống thấm SikaCoat Plus</a></li>
-                    <li><a href="#san-pham" class="hover:text-white transition">Vữa chống thấm SikaTopseal 107</a></li>
-                    <li><a href="#san-pham" class="hover:text-white transition">Phụ gia Sika Latex / Latex TH</a></li>
-                    <li><a href="#san-pham" class="hover:text-white transition">Vữa rót SikaGrout 214-11</a></li>
+                    <li><a href="#san-pham" class="hover:text-white transition">Keo dán gạch Sika GP</a></li>
+                    <li><a href="#san-pham" class="hover:text-white transition">Keo cấy thép 200HP</a></li>
+                    <li><a href="#san-pham" class="hover:text-white transition">Chất tháo / tẩy rỉ sắt</a></li>
+                    <li><a href="#san-pham" class="hover:text-white transition">Giải pháp chống thấm toàn diện</a></li>
                 </ul>
             </div>
             <div>
@@ -255,7 +200,7 @@
             </div>
         </div>
         <div class="border-t border-gray-800 pt-6 text-center text-gray-500 text-sm">
-            <p>&copy; 2026 Phụ Gia Xây Dựng Sika - 421 Lũy Bán Bích, TP.HCM. Giám sát kỹ thuật: Nguyễn Đức Trí.</p>
+            <p>&copy; 2026 Phụ Gia Xây Dựng - 421 Lũy Bán Bích, TP.HCM. Giám sát kỹ thuật: Nguyễn Đức Trí.</p>
         </div>
     </footer>
 
