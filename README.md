@@ -284,7 +284,7 @@
             <h3 class="text-3xl font-bold text-sikaDark mb-4">Về Cửa Hàng Phụ Gia Xây Dựng</h3>
             <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
             <p class="text-gray-700 leading-relaxed text-lg mb-6">
-                Chuyên cung cấp sỉ và lẻ các dòng sản phẩm phụ gia xây dựng, vật liệu chống thấm chính hãng, keo cấy thép Ramset và vật tư thi công chuyên nghiệp tại 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM[cite: 2]. Chúng tôi tư vấn kỹ thuật tận tâm, giao hàng nhanh chóng cho các công trình lớn nhỏ tại TP.HCM và các tỉnh lân cận[cite: 2].
+                Chuyên cung cấp sỉ và lẻ các dòng sản phẩm phụ gia xây dựng, vật liệu chống thấm chính hãng, keo cấy thép Ramset và vật tư thi công chuyên nghiệp tại 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM . Chúng tôi tư vấn kỹ thuật tận tâm, giao hàng nhanh chóng cho các công trình lớn nhỏ tại TP.HCM và các tỉnh lân cận.
             </p>
             <div class="flex flex-wrap justify-center gap-6 text-gray-800 font-semibold">
                 <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Sản phẩm chính hãng 100% </div>
@@ -300,7 +300,7 @@
             <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
             <p class="text-gray-600 mb-6">Ghé thăm cửa hàng trực tiếp tại: <strong>421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</strong> </p>
             <div class="rounded-xl overflow-hidden shadow-lg border-2 border-gray-300 h-96 w-full">
-                <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=421+Luy+Ban+Bich+Phu+Thanh+Tan+Phu+Ho+Chi+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed"></iframe>
+                <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=https://https://www.google.com/maps/place/Ph%E1%BB%A5+Gia+x%C3%A2y+d%E1%BB%B1ng/@10.7746453,106.6300106,17z/data=!4m15!1m8!3m7!1s0x31752ea11b0641a9:0x972319e9a2832b63!2zUUpGTStSM0osIDQyMSDEkC4gTMWpeSBCw6FuIELDrWNoLCBQaMO6IFRo4bqhbmgsIEjhu5MgQ2jDrSBNaW5oIDcyMDAwLCBWaeG7h3QgTmFt!3b1!8m2!3d10.77464!4d106.6325909!16s%2Fg%2F11q2nm6kb7!3m5!1s0x31752f253f7d0801:0x2fd32adc56fa1a34!8m2!3d10.77464!4d106.632591!16s%2Fg%2F11tb1zsy44?entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D"></iframe>
             </div>
         </div>
     </section>
