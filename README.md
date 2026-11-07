@@ -49,6 +49,7 @@
             <div class="hidden md:flex items-center gap-4">
                 <a href="#products" class="font-bold text-gray-900 hover:text-sikaRed transition">Sản phẩm</a>
                 <a href="#about" class="font-bold text-gray-900 hover:text-sikaRed transition">Giới thiệu</a>
+                <a href="#map" class="font-bold text-gray-900 hover:text-sikaRed transition">Bản đồ</a>
                 <a href="#contact" class="font-bold text-gray-900 hover:text-sikaRed transition">Liên hệ</a>
                 <a href="https://zalo.me/0903883507" target="_blank" class="bg-sikaRed text-white px-4 py-2 rounded-lg font-bold shadow hover:bg-red-700 transition flex items-center gap-2">
                     <i class="fa-solid fa-comment-dots"></i> Chat Zalo
@@ -85,7 +86,7 @@
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             
-            <!-- Product: Keo Dán Gạch Sika GP (Mới bổ sung) -->
+            <!-- Product: Keo Dán Gạch Sika GP -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20gp.jpg" alt="Keo Dán Gạch Sika GP" class="max-h-full max-w-full object-contain">
@@ -103,7 +104,7 @@
                 </div>
             </div>
 
-            <!-- Product: Keo Cấy Thép 200HP (Mới bổ sung) -->
+            <!-- Product: Keo Cấy Thép 200HP -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20200hp.jpg" alt="Keo Cấy Thép 200HP" class="max-h-full max-w-full object-contain">
@@ -121,7 +122,7 @@
                 </div>
             </div>
 
-            <!-- Product: Chất Tháo / Tẩy Rỉ Sắt (Mới bổ sung) -->
+            <!-- Product: Chất Tháo / Tẩy Rỉ Sắt -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/thao%20ri.jpg" alt="Chất Tháo / Tẩy Rỉ Sắt" class="max-h-full max-w-full object-contain">
@@ -289,6 +290,17 @@
                 <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Sản phẩm chính hãng 100%</div>
                 <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Giá cạnh tranh cho thợ & thầu</div>
                 <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Tư vấn giải pháp thi công chuẩn kỹ thuật</div>
+            </div>
+        </div>
+    </section>
+    <!-- Map Section (Bản đồ Google Maps) -->
+    <section id="map" class="py-12 bg-gray-100 border-t border-gray-200">
+        <div class="container mx-auto px-4 max-w-5xl text-center">
+            <h3 class="text-3xl font-bold text-sikaDark mb-2">Bản Đồ Chỉ Đường</h3>
+            <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
+            <p class="text-gray-600 mb-6">Ghé thăm cửa hàng trực tiếp tại: <strong>421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</strong></p>
+            <div class="rounded-xl overflow-hidden shadow-lg border-2 border-gray-300 h-96 w-full">
+                <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=421+Luy+Ban+Bich+Phu+Thanh+Tan+Phu+Ho+Chi+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed"></iframe>
             </div>
         </div>
     </section>
