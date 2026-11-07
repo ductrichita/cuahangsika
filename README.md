@@ -284,12 +284,12 @@
             <h3 class="text-3xl font-bold text-sikaDark mb-4">Về Cửa Hàng Phụ Gia Xây Dựng</h3>
             <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
             <p class="text-gray-700 leading-relaxed text-lg mb-6">
-                Chuyên cung cấp sỉ và lẻ các dòng sản phẩm phụ gia xây dựng, vật liệu chống thấm chính hãng, keo cấy thép Ramset và vật tư thi công chuyên nghiệp tại 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM[cite: 2]. Chúng tôi tư vấn kỹ thuật tận tâm, giao hàng nhanh chóng cho các công trình lớn nhỏ tại TP.HCM và các tỉnh lân cận[cite: 2].
+                Chuyên cung cấp sỉ và lẻ các dòng sản phẩm phụ gia xây dựng, vật liệu chống thấm chính hãng, keo cấy thép Ramset và vật tư thi công chuyên nghiệp tại 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM . Chúng tôi tư vấn kỹ thuật tận tâm, giao hàng nhanh chóng cho các công trình lớn nhỏ tại TP.HCM và các tỉnh lân cận .
             </p>
             <div class="flex flex-wrap justify-center gap-6 text-gray-800 font-semibold">
-                <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Sản phẩm chính hãng 100%[cite: 2]</div>
-                <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Giá cạnh tranh cho thợ & thầu[cite: 2]</div>
-                <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Tư vấn giải pháp thi công chuẩn kỹ thuật[cite: 2]</div>
+                <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Sản phẩm chính hãng 100% </div>
+                <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Giá cạnh tranh cho thợ & thầu </div>
+                <div class="flex items-center gap-2"><i class="fa-solid fa-check text-sikaRed"></i> Tư vấn giải pháp thi công chuẩn kỹ thuật </div>
             </div>
         </div>
     </section>
@@ -298,7 +298,7 @@
         <div class="container mx-auto px-4 max-w-5xl text-center">
             <h3 class="text-3xl font-bold text-sikaDark mb-2">Bản Đồ Chỉ Đường</h3>
             <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
-            <p class="text-gray-600 mb-6">Ghé thăm cửa hàng trực tiếp tại: <strong>421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</strong>[cite: 2]</p>
+            <p class="text-gray-600 mb-6">Ghé thăm cửa hàng trực tiếp tại: <strong>421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</strong></p>
             <div class="rounded-xl overflow-hidden shadow-lg border-2 border-gray-300 h-96 w-full">
                 <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=421+Luy+Ban+Bich+Phu+Thanh+Tan+Phu+Ho+Chi+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed"></iframe>
             </div>
@@ -308,14 +308,14 @@
     <section id="contact" class="bg-sikaDark text-white py-16">
         <div class="container mx-auto px-4 text-center max-w-3xl">
             <h3 class="text-3xl font-bold mb-4 text-sikaYellow">Liên Hệ Tư Vấn & Mua Hàng</h3>
-            <p class="text-gray-300 mb-8">Hãy liên hệ ngay với chúng tôi để nhận báo giá tốt nhất cho công trình của bạn![cite: 2]</p>
+            <p class="text-gray-300 mb-8">Hãy liên hệ ngay với chúng tôi để nhận báo giá tốt nhất cho công trình của bạn!</p>
             
             <div class="bg-gray-800 p-8 rounded-xl shadow-lg border border-gray-700 text-left space-y-4 mb-8">
                 <div class="flex items-start gap-4">
                     <i class="fa-solid fa-store text-sikaYellow text-xl mt-1"></i>
                     <div>
                         <strong class="block text-lg">Cửa Hàng Phụ Gia Xây Dựng</strong>
-                        <span class="text-gray-300">421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM[cite: 2]</span>
+                        <span class="text-gray-300">421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</span>
                     </div>
                 </div>
                 <div class="flex items-center gap-4">
@@ -340,7 +340,7 @@
     <!-- Footer -->
     <footer class="bg-gray-900 text-gray-500 py-6 text-center text-sm border-t border-gray-800">
         <div class="container mx-auto px-4">
-            <p>&copy; 2026 Cửa Hàng Phụ Gia Xây Dựng - 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM. All rights reserved[cite: 2].</p>
+            <p>&copy; 2026 Cửa Hàng Phụ Gia Xây Dựng - 421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM. All rights reserved.</p>
         </div>
     </footer>
 </body>
