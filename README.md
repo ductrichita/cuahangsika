@@ -300,7 +300,7 @@
             <div class="w-24 h-1 bg-sikaRed mx-auto mb-6"></div>
             <p class="text-gray-600 mb-6">Ghé thăm cửa hàng trực tiếp tại: <strong>421 Lũy Bán Bích, Phường Phú Thạnh, TP.HCM</strong> </p>
             <div class="rounded-xl overflow-hidden shadow-lg border-2 border-gray-300 h-96 w-full">
-                <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=https://https://www.google.com/maps/place/Ph%E1%BB%A5+Gia+x%C3%A2y+d%E1%BB%B1ng/@10.7746453,106.6300106,17z/data=!4m15!1m8!3m7!1s0x31752ea11b0641a9:0x972319e9a2832b63!2zUUpGTStSM0osIDQyMSDEkC4gTMWpeSBCw6FuIELDrWNoLCBQaMO6IFRo4bqhbmgsIEjhu5MgQ2jDrSBNaW5oIDcyMDAwLCBWaeG7h3QgTmFt!3b1!8m2!3d10.77464!4d106.6325909!16s%2Fg%2F11q2nm6kb7!3m5!1s0x31752f253f7d0801:0x2fd32adc56fa1a34!8m2!3d10.77464!4d106.632591!16s%2Fg%2F11tb1zsy44?entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D"></iframe>
+               <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=421+Luy+Ban+Bich+Phu+Thanh+Tan+Phu+Ho+Chi+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed"></iframe>
             </div>
         </div>
     </section>
