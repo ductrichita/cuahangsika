@@ -104,7 +104,7 @@
                 </div>
             </div>
 
-            <!-- Product: Keo Cấy Thép 200HP -->
+            <!-- Product: Keo Dán Gạch 200HP -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20200hp.jpg" alt="Keo Cấy Thép 200HP" class="max-h-full max-w-full object-contain">
