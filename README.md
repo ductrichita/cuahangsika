@@ -14,7 +14,7 @@
                     colors: {
                         sikaRed: '#E53E3E',
                         sikaDarkRed: '#C53030',
-                        sikaYellow: '#ECC94B',
+                        sikaYellow: '#D69E2E',
                         sikaDark: '#1A202C'
                     }
                 }
@@ -22,7 +22,7 @@
         }
     </script>
 </head>
-<body class="bg-gray-50 text-sikaDark font-sans">
+<body class="bg-white text-sikaDark font-sans">
 
     <!-- Top Bar -->
     <div class="bg-sikaDark text-white text-sm py-2 px-4">
@@ -60,23 +60,15 @@
         </div>
     </header>
 
-    <!-- Hero Section -->
-    <section class="bg-gradient-to-r from-sikaDark to-gray-800 text-white py-16 px-4">
-        <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-            <div>
-                <span class="bg-sikaYellow text-sikaDark font-bold text-xs uppercase px-3 py-1 rounded-full">Chính hãng 100% - Tư vấn kỹ thuật tận tâm</span>
-                <h2 class="text-3xl md:text-5xl font-black mt-4 mb-4 leading-tight">Giải Pháp Chống Thấm & Phụ Gia Xây Dựng Toàn Diện</h2>
-                <p class="text-gray-300 mb-6 text-sm md:text-base">Chuyên cung cấp keo dán gạch Sika GP, keo cấy thép 200HP, chất tẩy rỉ và các giải pháp chống thấm hàng đầu phục vụ mọi công trình tại TP.HCM.</p>
-                <div class="flex flex-wrap gap-4">
-                    <a href="#san-pham" class="bg-sikaRed text-white font-bold px-6 py-3 rounded-lg shadow hover:bg-sikaDarkRed transition">Xem Sản Phẩm</a>
-                    <a href="tel:0903883507" class="bg-white text-sikaDark font-bold px-6 py-3 rounded-lg shadow hover:bg-gray-100 transition">Tư Vấn Kỹ Thuật</a>
-                </div>
-            </div>
-            <div class="bg-gray-900 p-4 rounded-xl shadow-2xl border border-gray-700">
-                <div class="aspect-video w-full rounded-lg overflow-hidden">
-                    <iframe class="w-full h-full" src="https://www.youtube.com/embed/videoseries?list=PL..." title="Sika Video" frameborder="0" allowfullscreen></iframe>
-                </div>
-                <p class="text-xs text-center text-gray-400 mt-2">Kênh YouTube chính thức: @cuahangsika8908</p>
+    <!-- Hero Section (Nền trắng đỏ vàng trang nhã) -->
+    <section class="bg-gradient-to-r from-red-50 via-yellow-50 to-white py-16 px-4 border-b border-gray-100">
+        <div class="container mx-auto max-w-5xl text-center">
+            <span class="bg-sikaYellow text-white font-bold text-xs uppercase px-4 py-1.5 rounded-full shadow-sm">Chính hãng 100% - Tư vấn kỹ thuật tận tâm</span>
+            <h2 class="text-3xl md:text-5xl font-black mt-4 mb-4 text-sikaDark leading-tight">Giải Pháp Chống Thấm & Phụ Gia Xây Dựng Toàn Diện</h2>
+            <p class="text-gray-600 mb-8 max-w-2xl mx-auto text-sm md:text-base">Chuyên cung cấp keo dán gạch Sika GP, keo cấy thép 200HP, chất tẩy rỉ và các giải pháp vật liệu xây dựng hàng đầu phục vụ mọi công trình tại TP.HCM.</p>
+            <div class="flex flex-wrap justify-center gap-4">
+                <a href="#san-pham" class="bg-sikaRed text-white font-bold px-6 py-3 rounded-lg shadow hover:bg-sikaDarkRed transition">Xem Sản Phẩm Ngay</a>
+                <a href="tel:0903883507" class="bg-white border-2 border-sikaDark text-sikaDark font-bold px-6 py-3 rounded-lg shadow-sm hover:bg-gray-50 transition">Gọi Kỹ Thuật: 0903 883 507</a>
             </div>
         </div>
     </section>
@@ -92,55 +84,55 @@
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             
             <!-- Product 1: Keo GP -->
-            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-4">
+            <div class="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100 hover:shadow-xl transition flex flex-col">
+                <div class="h-64 bg-gray-50 flex items-center justify-center p-4 border-b border-gray-100">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20gp.jpg" alt="Keo dán gạch Sika GP" class="h-full object-contain">
                 </div>
                 <div class="p-6 flex-1 flex flex-col justify-between">
                     <div>
                         <span class="text-xs font-bold text-sikaRed uppercase">Keo dán gạch chính hãng</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">Keo Dán Gạch Sika GP</h3>
+                        <h3 class="text-xl font-bold mt-1 mb-2 text-sikaDark">Keo Dán Gạch Sika GP</h3>
                         <p class="text-gray-600 text-sm mb-4">Keo dán gạch gốc xi măng trộn sẵn, độ bám dính cực cao, chống trượt tốt cho gạch ốp lát tường và sàn.</p>
                     </div>
                     <div class="flex items-center justify-between pt-4 border-t border-gray-100">
                         <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
-                        <a href="tel:0903883507" class="bg-sikaDark text-white text-xs font-bold px-3 py-2 rounded hover:bg-sikaRed transition">Đặt hàng ngay</a>
+                        <a href="tel:0903883507" class="bg-sikaRed text-white text-xs font-bold px-4 py-2 rounded-lg hover:bg-sikaDarkRed transition">Đặt hàng ngay</a>
                     </div>
                 </div>
             </div>
 
             <!-- Product 2: Keo 200HP -->
-            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-4">
+            <div class="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100 hover:shadow-xl transition flex flex-col">
+                <div class="h-64 bg-gray-50 flex items-center justify-center p-4 border-b border-gray-100">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20200hp.jpg" alt="Keo 200HP cấy thép" class="h-full object-contain">
                 </div>
                 <div class="p-6 flex-1 flex flex-col justify-between">
                     <div>
                         <span class="text-xs font-bold text-sikaRed uppercase">Neo thép & cấy bu lông</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">Keo Cấy Thép 200HP</h3>
+                        <h3 class="text-xl font-bold mt-1 mb-2 text-sikaDark">Keo Cấy Thép 200HP</h3>
                         <p class="text-gray-600 text-sm mb-4">Hóa chất cấy thép chuyên dụng cường độ cao, chịu lực tốt cho các hạng mục cải tạo và kết cấu bê tông cốt thép.</p>
                     </div>
                     <div class="flex items-center justify-between pt-4 border-t border-gray-100">
                         <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
-                        <a href="tel:0903883507" class="bg-sikaDark text-white text-xs font-bold px-3 py-2 rounded hover:bg-sikaRed transition">Đặt hàng ngay</a>
+                        <a href="tel:0903883507" class="bg-sikaRed text-white text-xs font-bold px-4 py-2 rounded-lg hover:bg-sikaDarkRed transition">Đặt hàng ngay</a>
                     </div>
                 </div>
             </div>
 
             <!-- Product 3: Tháo rỉ sắt -->
-            <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
-                <div class="h-56 bg-gray-100 flex items-center justify-center p-4">
+            <div class="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-100 hover:shadow-xl transition flex flex-col">
+                <div class="h-64 bg-gray-50 flex items-center justify-center p-4 border-b border-gray-100">
                     <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/thao%20ri.jpg" alt="Chất tháo rỉ sắt" class="h-full object-contain">
                 </div>
                 <div class="p-6 flex-1 flex flex-col justify-between">
                     <div>
                         <span class="text-xs font-bold text-sikaRed uppercase">Xử lý bề mặt kim loại</span>
-                        <h3 class="text-xl font-bold mt-1 mb-2">Chất Tháo / Tẩy Rỉ Sắt</h3>
+                        <h3 class="text-xl font-bold mt-1 mb-2 text-sikaDark">Chất Tháo / Tẩy Rỉ Sắt</h3>
                         <p class="text-gray-600 text-sm mb-4">Dung dịch chuyên dụng tẩy sạch rỉ sét trên cốt pha, sắt thép xây dựng, trả lại bề mặt sạch bảo vệ công trình.</p>
                     </div>
                     <div class="flex items-center justify-between pt-4 border-t border-gray-100">
                         <span class="text-sikaRed font-bold">Liên hệ báo giá</span>
-                        <a href="tel:0903883507" class="bg-sikaDark text-white text-xs font-bold px-3 py-2 rounded hover:bg-sikaRed transition">Đặt hàng ngay</a>
+                        <a href="tel:0903883507" class="bg-sikaRed text-white text-xs font-bold px-4 py-2 rounded-lg hover:bg-sikaDarkRed transition">Đặt hàng ngay</a>
                     </div>
                 </div>
             </div>
@@ -149,11 +141,11 @@
     </section>
 
     <!-- About Section -->
-    <section id="ve-chung-toi" class="bg-gray-100 py-16 px-4">
+    <section id="ve-chung-toi" class="bg-gray-50 py-16 px-4 border-t border-gray-100">
         <div class="container mx-auto max-w-5xl grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
             <div>
                 <span class="text-xs font-bold text-sikaRed uppercase">Về cửa hàng chúng tôi</span>
-                <h2 class="text-3xl font-black mt-2 mb-4">Uy Tín & Tư Vấn Kỹ Thuật Chuyên Sâu Tại Tân Phú</h2>
+                <h2 class="text-3xl font-black mt-2 mb-4 text-sikaDark">Uy Tín & Tư Vấn Kỹ Thuật Chuyên Sâu Tại Tân Phú</h2>
                 <p class="text-gray-700 mb-4">Được điều hành bởi anh <strong>Nguyễn Đức Trí</strong> - chuyên viên tư vấn kỹ thuật vật liệu xây dựng lâu năm, cửa hàng là địa chỉ tin cậy của các nhà thầu, thợ xây và chủ đầu tư.</p>
                 <ul class="space-y-2 text-gray-700 font-medium">
                     <li><i class="fa-solid fa-check text-sikaRed mr-2"></i> Cam kết sản phẩm chính hãng, chất lượng cao.</li>
@@ -205,4 +197,4 @@
     </footer>
 
 </body>
-</html>
+</html
