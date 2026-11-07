@@ -104,16 +104,16 @@
                 </div>
             </div>
 
-            <!-- Product: Keo Cấy Thép 200HP (Đã sửa đúng) -->
+            <!-- Product: Keo Dán Gạch 200HP  -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:shadow-xl transition flex flex-col">
                 <div class="h-56 bg-gray-50 flex items-center justify-center p-4">
-                    <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20200hp.jpg" alt="Keo Cấy Thép 200HP" class="max-h-full max-w-full object-contain">
+                    <img src="https://raw.githubusercontent.com/ductrichita/hinh/main/keo%20200hp.jpg" alt="Keo Dán Gạch 200HP" class="max-h-full max-w-full object-contain">
                 </div>
                 <div class="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                        <span class="text-xs font-bold text-sikaRed uppercase">Keo cấy thép</span>
-                        <h4 class="text-lg font-bold text-gray-900 mt-1">Keo Cấy Thép 200HP</h4>
-                        <p class="text-sm text-gray-600 mt-2">Hóa chất cấy thép 200HP chuyên dụng cường độ cao, chịu lực tốt cho kết cấu bê tông.</p>
+                        <span class="text-xs font-bold text-sikaRed uppercase">Keo dán gạch </span>
+                        <h4 class="text-lg font-bold text-gray-900 mt-1">Keo Dán Gạch 200HP</h4>
+                        <p class="text-sm text-gray-600 mt-2">Keo dán gạch gốc xi măng trộn sẵn, độ bám dính cao, chống trượt tốt cho gạch ốp lát.</p>
                     </div>
                     <div class="mt-4 pt-4 border-t border-gray-100 flex justify-between items-center">
                         <span class="text-sikaRed font-bold">Chính hãng</span>
